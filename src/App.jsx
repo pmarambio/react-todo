@@ -47,7 +47,7 @@ const App = () => {
                     <button className="hover:text-blue-600">Completed</button>
                 </div>
             </section>
-            <p className="mt-8 text-center">Drag an drop to reorder list</p>
+            <p className="mt-8 text-center">Drag an drop to reorder list wiii</p>
         </div>
     )
 }
